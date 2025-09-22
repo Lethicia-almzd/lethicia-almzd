@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lethicia Almeida
+# 👩🏽‍💻 Lethicia Almeida
 
 *`Desenvolvedora Front-end em desenvolvimento`*
 
