@@ -19,6 +19,13 @@ Me chamo Lethicia Ferreira de Almeida, tenho 19 anos e sou natural de Minas Gera
             src="https://custom-icon-badges.demolab.com/github/followers/lethicia-almzd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+     <a href="(https://www.instagram.com/lee_ayy21)">
+        <img 
+            alt="Instagram" 
+            title="Meu Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
