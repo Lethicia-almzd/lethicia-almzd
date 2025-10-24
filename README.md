@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Lethicia Almeida
 
-*`Desenvolvedora Front-end em aprendizagem`*
+*`Desenvolvedora de software em aprendizagem`*
 
 Me chamo Lethicia Ferreira de Almeida, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informação na Universidade Federal de Uberlândia e sou apaixonada por tecnologia! 
 
