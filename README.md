@@ -3,7 +3,7 @@
 <p align="center"><em>Desenvolvedora de software em aprendizagem</em></p>
 
 <p align="center">
-  Me chamo <strong>Lethicia</strong>, tenho 19 e resido em Minas Gerais</strong> 💙<br>
+  Me chamo <strong>Lethicia</strong>, tenho 19 anos e resido em Minas Gerais</strong> 💙<br>
   Atualmente, estou cursando <strong>Sistemas de Informação</strong> na <strong>Universidade Federal de Uberlândia</strong> e sou apaixonada por tecnologia!
 </p>
 
