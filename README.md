@@ -3,7 +3,7 @@
 <p align="center"><em>Desenvolvedora de software em aprendizagem</em></p>
 
 <p align="center">
-  Me chamo <strong>Lethicia Ferreira de Almeida</strong>, tenho 19 anos e sou natural de <strong>Minas Gerais</strong> 💙<br>
+  Me chamo <strong>Lethicia</strong>, tenho 19 e resido em Minas Gerais</strong> 💙<br>
   Atualmente, estou cursando <strong>Sistemas de Informação</strong> na <strong>Universidade Federal de Uberlândia</strong> e sou apaixonada por tecnologia!
 </p>
 
@@ -63,9 +63,5 @@
   </a>
 </p>
 
----
-
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lethicia-almzd&color=8A2BE2&style=flat-square" alt="Profile views" />
-</p>
+
