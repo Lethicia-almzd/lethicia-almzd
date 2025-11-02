@@ -7,11 +7,23 @@
   Atualmente, estou cursando <strong>Sistemas de Informação</strong> na <strong>Universidade Federal de Uberlândia</strong> e sou apaixonada por tecnologia!
 </p>
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+
+---
+
+### 🧠 Tecnologias que estou estudando
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git" />
+</p>
+
+---
 
 
 ### 📊 Estatísticas
