@@ -42,6 +42,7 @@
 
 ### 📫 Como me encontrar
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lethicia-almeida-64655536a">
     <img 
@@ -56,6 +57,7 @@
     />
   </a>
 </p>
+
 
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
 <br><br>
