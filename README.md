@@ -23,22 +23,6 @@
   <img src="https://skillicons.dev/icons?i=java,git" />
 </p>
 
----
-
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=lethicia-almzd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicia-almzd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
 
 ### 📫 Como me encontrar
 
