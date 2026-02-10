@@ -20,7 +20,7 @@
 ### 🧠 Tecnologias que estou estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git" />
+  <img src="https://skillicons.dev/icons?i=c,java,git,postgresql" />
 </p>
 
 
