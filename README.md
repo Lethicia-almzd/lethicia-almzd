@@ -12,7 +12,7 @@
 ### 🤖 Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🧠 Tecnologias que estou estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,git,postgresql,linux" />
+  <img src="https://skillicons.dev/icons?i=java,git,postgresql,linux" />
 </p>
 
 
