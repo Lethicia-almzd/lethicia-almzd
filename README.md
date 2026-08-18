@@ -12,7 +12,7 @@
 ### 🤖 Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,py" />
 </p>
 
 ---
